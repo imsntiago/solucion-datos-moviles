@@ -7,7 +7,9 @@ Objetivos:
 Al finalizar, serás capaz de:
 
 • Identificar el tipo de análisis de datos apropiado para cada caso.
+
 • Determinar los pasos del proceso de análisis de datos necesarios para cada situación.
+
 • Justificar tu elección de análisis y pasos del proceso.
 
 Escenario y Problemática:
