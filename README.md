@@ -19,10 +19,15 @@ en cuanto a uso de datos móviles. Disponen de información sobre el consumo ind
 la ubicación de los clientes y el tipo de dispositivo utilizado.
 
 • Para este escenario, deberás:
+
 • Leer detenidamente la descripción del escenario y las preguntas.
+
 • Identificar el tipo de análisis de datos más adecuado para abordar la situación.
+
 • Plantear preguntas de datos que guíen cada paso del proceso
+
 • Determinar los pasos del proceso de análisis de datos que se deberían seguir.
+
 • Justificar tu elección de análisis y pasos del proceso, explicando por qué son los más 
 apropiados para el caso.
 
